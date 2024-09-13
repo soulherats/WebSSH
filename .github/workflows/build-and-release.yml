@@ -50,6 +50,7 @@ jobs:
             gossh/WebSSH-linux-amd64
             gossh/WebSSH-linux-arm64
             gossh/WebSSH-macos-amd64
+            gossh/WebSSH-linux-arm64
             gossh/WebSSH-windows-amd64.exe
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
