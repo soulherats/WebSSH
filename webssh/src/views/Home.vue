@@ -248,6 +248,9 @@
                             <el-option label="Menlo" value="Menlo" />
                             <el-option label="Monaco" value="Monaco" />
                             <el-option label="monospace" value="monospace" />
+                            <el-option label="Microsoft YaHei" value="Microsoft YaHei" />
+                            <el-option label="Times New Roman" value="Times New Roman" />
+                            <el-option label="楷体" value="楷体" />
                           </el-select>
                         </el-form-item>
                       </el-col>
